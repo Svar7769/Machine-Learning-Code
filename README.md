@@ -1,4 +1,6 @@
 # MachineLearning
+This Repository consist of all the assignment from Stamford Coures for Machine Learning
+
 Assignment 1 : Linear Regression on housing price
 
 Assignment 2 : 
